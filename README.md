@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- -->
 
-<!--
-**Marko-zu/Marko-zu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey I'm Marko, just another soul navigating through the vast universe of tech and finance, and honestly, loving every bit of it.
 
-Here are some ideas to get you started:
+🔭 Currently Crafting:
+I'm currently navigating through the intricate world of Finance sanctions within the banking sector. It's a challenging yet rewarding domain where precision and diligence are key.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌿 Learning Lanes:
+Diving headfirst into data analytics and machine learning. I'm all about turning numbers into stories.
+
+🎓 Academic Adventures:
+My academic journey in International Business at EFRI - Faculty of Economics and Business - Great place, awesome people, and it really opened my eyes. It has equipped me with a global mindset and a versatile skill set, paving the way for me to explore the intersections between technology and business.
+
+🌍 Speaking in Tongues:
+Fluent in English, German, and Italian, I believe that language is the key to unlocking new opportunities and understanding diverse perspectives.
+
+⚡ Off-Screen Life:
+When I'm not glued to my screen, I'm probably out embracing nature or plotting my next travel escape. Balance is key.
+
